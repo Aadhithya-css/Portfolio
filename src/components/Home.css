@@ -1,0 +1,26 @@
+.home-container{
+    background-color: white;
+    width: 800px;
+    border-radius: 0 20px 20px 0;
+    position: relative;
+}
+
+.home-main-heading{
+    font-size: 4em;
+    text-align: right;
+    margin: 150px 30px;
+    font-weight: bold;
+}
+
+.icons{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+i{
+    color: rgb(3, 3, 31);
+    font-size: 30px;
+    margin: 10px;
+    text-align: center;
+}
