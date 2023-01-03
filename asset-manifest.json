@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.3035a70f.css",
-    "main.js": "/Portfolio/static/js/main.e833cd0f.js",
+    "main.css": "/Portfolio/static/css/main.f5dee311.css",
+    "main.js": "/Portfolio/static/js/main.6566616d.js",
     "static/media/news-home-page.jpg": "/Portfolio/static/media/news-home-page.9a548f8c20e1f85b9f96.jpg",
     "static/media/base-apparel.jpg": "/Portfolio/static/media/base-apparel.343fe65f67fdff338b65.jpg",
     "static/media/intro-component-with-signup.jpg": "/Portfolio/static/media/intro-component-with-signup.d43ed501bddc9f7d93f7.jpg",
@@ -14,11 +14,11 @@
     "static/media/order-summary.jpg": "/Portfolio/static/media/order-summary.7bafc1721c18bd4df3ef.jpg",
     "static/media/interactive-rating.jpg": "/Portfolio/static/media/interactive-rating.e216cabf51047ff9ba7d.jpg",
     "index.html": "/Portfolio/index.html",
-    "main.3035a70f.css.map": "/Portfolio/static/css/main.3035a70f.css.map",
-    "main.e833cd0f.js.map": "/Portfolio/static/js/main.e833cd0f.js.map"
+    "main.f5dee311.css.map": "/Portfolio/static/css/main.f5dee311.css.map",
+    "main.6566616d.js.map": "/Portfolio/static/js/main.6566616d.js.map"
   },
   "entrypoints": [
-    "static/css/main.3035a70f.css",
-    "static/js/main.e833cd0f.js"
+    "static/css/main.f5dee311.css",
+    "static/js/main.6566616d.js"
   ]
 }
